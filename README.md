@@ -9,6 +9,4 @@ Skills: JS / DOM + CSSOM / REACT / NODE / TAILWIND + GCP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=twoabd&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=twoabd)  
-
 ![Profile views](https://gpvc.arturio.dev/twoabd)  
