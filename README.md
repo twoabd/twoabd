@@ -6,5 +6,3 @@ Skills: JS / DOM + CSSOM / REACT / NODE / TAILWIND + GCP
 - 🌱 I’m currently learning System Design
 - 💬 Ask me about Startups/SaaS
 - 📫 How to reach me: magnetonx@gmail.com
-
-![Profile views](https://gpvc.arturio.dev/twoabd)  
